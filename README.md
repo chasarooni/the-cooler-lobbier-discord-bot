@@ -18,9 +18,10 @@ To run this bot you'll need to provide a `.env` file with the following variable
 `DISCORD_TOKEN=xxxxx`  
 `DISCORD_PREFIX=xxxxx`
 
-# About lobbyist
+# About  the cooler lobbier
 
-With lobbyist, you can create a game lobby(or a custom one) for your friends to join. Once you're ready, lobbyist will ping all your teammates.
+With cooler lobbierlobbyist, you can create a game lobby(or a custom one) for your friends to join. Once you're ready, lobbyist will ping all your teammates.
+Built by someone who wanted a time scheduler so I created a crappy version of that.
 
 ## Commands
 
@@ -34,4 +35,5 @@ With lobbyist, you can create a game lobby(or a custom one) for your friends to 
 
 # Contact
 
-Created by Maciej Sawiński macsawinski@gmail.com
+Originally Created by Maciej Sawiński macsawinski@gmail.com
+https://github.com/maciejsawinski/discord-lobby-maker
